@@ -3,3 +3,6 @@ API that provides access and manipulation of data scraped from university rankin
 
 # Status
 ## Work In Progress (WIP)
+
+## Changelist
+- Include QS, US News, Times, webometrics ranking data
