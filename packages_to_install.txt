@@ -1,0 +1,3 @@
+requests
+beautiful soup 4
+fuzzywuzzy
